@@ -125,15 +125,15 @@ Technologies Used 💻
 Folder Structure 📂
 
 .
-├── rental_car_analysis.ipynb   # Analysis notebook
-├── simulated_rental_data.xlsx  # Simulated dataset
-├── README.md                   # Documentation file
+* ├── rental_car_analysis.ipynb   # Analysis notebook
+* ├── simulated_rental_data.xlsx  # Simulated dataset
+* ├── README.md                   # Documentation file
 
 --------------------------------------
 
 Contact ✉️
 Feel free to reach out with any questions or suggestions:
 
-Name: Atakan Subasi
-GitHub: Your GitHub Profile
+*Name: Atakan Subasi
+*GitHub: Your GitHub Profile
 
