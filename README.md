@@ -36,8 +36,8 @@ Key Findings 🔍
 
  1.Most Active Age Group
 
-  * The age group 25-34 emerged as the most active group in renting cars.
-  * This group frequently rents Toyota Corolla, making it their top choice.
+  * The age group 65+ emerged as the most active group in renting cars.
+  * This group frequently rents Volkswagen Golf, making it their top choice.
     
  2.Most Preferred Car by Age Groups
 
@@ -54,8 +54,8 @@ Key Findings 🔍
 
  4.Occupational Preferences
 
-  * Engineers prefer Toyota Corolla the most.
-  * Teachers rent Ford Fiesta more frequently.
+  * Lawyer prefer Volkswagen Golf the most.
+  * Teachers rent Fiat 500 more frequently.
   * Doctors lean towards Volkswagen Golf.
  
 --------------------------------------
@@ -91,7 +91,7 @@ How to Run the Project ▶️
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/age-based-car-rental-analysis
+git clone (https://github.com/AtakanSubasi/Simulated-Rental-Data/blob/main/simulated_rental_data.ipynb)
 
 2. Install dependencies:
 
