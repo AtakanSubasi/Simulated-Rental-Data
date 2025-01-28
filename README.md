@@ -135,5 +135,5 @@ Contact ✉️
 Feel free to reach out with any questions or suggestions:
 
 *Name: Atakan Subasi
-*GitHub: Your GitHub Profile
+*GitHub: AtakanSubasi or (https://github.com/AtakanSubasi)
 
